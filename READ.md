@@ -1,0 +1,1 @@
+The Madita project represents a framework for individuals looking to gamify self-care, self-reflection, and self-improvement.
